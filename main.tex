@@ -8,20 +8,31 @@
 \usepackage{blindtext}
 \usepackage{hyperref}
 \usepackage{setspace}
+\usepackage{fancyhdr}% http://ctan.org/pkg/fancyhdr
 
-\setcounter{tocdepth}{3} % Show sections
+% \setcounter{tocdepth}{3} % Show sections
 
 
+% global variables
 \newcommand\x{12.7}
 \newcommand\y{6}
+\newcommand\z{white} %text color
+\newcommand\w{blue} %link color
+\newcommand\q{black} %background color
+\newcommand\xs{Purple Architecture} %project title
 
+% images folder path
 \graphicspath{{./images/}}
+
+% global setup for colors
 \hypersetup{
     colorlinks=true,
-    linkcolor=black,
-    filecolor=blue,      
-    urlcolor=blue  
+    linkcolor=\z,
+    filecolor=\z,      
+    urlcolor=\w,
+    citecolor=\w
     }
+
 
 % Keywords command
 \providecommand{\keywords}[1]
@@ -33,13 +44,18 @@
 
 \urlstyle{same}
 
-\title{\textbf{Purple Architecture}}
+\title{\textbf{\xs}}
 \author{Joris Putteneers}
 \date{June 2022}
 
 
 
+
 \begin{document}
+
+\color{\z}
+\pagecolor{\q}
+
 
 
 \maketitle
@@ -49,7 +65,8 @@
 % \newpage
 
 \section{Introduction}
-doing normal things stuff the high tech way \cite{databaseII}.\\
+Random citation \cite{DUMMY:1} embeddeed in text.
+
 
 enhancing the design proces with smartttech, not the product.
 keep the silly design process, intuition, guesswork, imperfect. but enhance it with tech. \\
@@ -98,6 +115,7 @@ Please note that this book is about design and theory, discourse and dialogue, a
   % \captionsetup{}
   \captionsetup{font=small,justification=raggedright,singlelinecheck=false}
   \includegraphics[width=\x cm]{g.png}
+  \captionsetup{font={small,color=\z}}
   \caption{pointcloud model. \href{https://sketchfab.com/3d-models/wifi-workspace-visualisation-aefe16a1f9bd4296941e099754eaacc2}{sketchfab Model}.}
   \label{fig:method}
 \end{figure}
@@ -108,6 +126,7 @@ Please note that this book is about design and theory, discourse and dialogue, a
   % \captionsetup{}
   \captionsetup{font=small,justification=raggedright,singlelinecheck=false}
   \includegraphics[width=\x cm]{c.png}
+  \captionsetup{font={small,color=\z}}
   \caption{pointcloud model. \href{https://sketchfab.com/3d-models/wifi-workspace-visualisation-aefe16a1f9bd4296941e099754eaacc2}{sketchfab Model}.}
   \label{fig:method}
 \end{figure}
@@ -117,6 +136,7 @@ Please note that this book is about design and theory, discourse and dialogue, a
   % \captionsetup{}
   \captionsetup{font=small,justification=raggedright,singlelinecheck=false}
   \includegraphics[width=\x cm]{a.jpg}
+  \captionsetup{font={small,color=\z}}
   \caption{pointcloud model. \href{https://sketchfab.com/3d-models/wifi-workspace-visualisation-aefe16a1f9bd4296941e099754eaacc2}{sketchfab Model}.}
   \label{fig:method}
 \end{figure}
@@ -130,12 +150,13 @@ Please note that this book is about design and theory, discourse and dialogue, a
   \captionsetup{font=small,justification=raggedright,singlelinecheck=false}
   \parbox{6cm}{
   \includegraphics[width=\y cm]{b.png}
-  % \captionsetup{font={small,sc,onehalfspacing,color=red}}
+  \captionsetup{font={small,color=\z}}
   \caption{Object detection.}
   \label{fig:2figsA}}
   \qquad
   \begin{minipage}{6cm}
   \includegraphics[width=\y cm]{a.png}
+  \captionsetup{font={small,color=\z}}
   \caption{Machine vision iteration.}
   \label{fig:2figsB}
   \end{minipage}
@@ -146,12 +167,13 @@ Please note that this book is about design and theory, discourse and dialogue, a
   \captionsetup{font=small,justification=raggedright,singlelinecheck=false}
   \parbox{6cm}{
   \includegraphics[width=\y cm]{h.png}
-  % \captionsetup{font={small,sc,onehalfspacing,color=red}}
+  \captionsetup{font={small,color=\z}}
   \caption{Object detection.}
   \label{fig:2figsA}}
   \qquad
   \begin{minipage}{6cm}
   \includegraphics[width=\y cm]{i.png}
+  \captionsetup{font={small,color=\z}}
   \caption{Machine vision iteration.}
   \label{fig:2figsB}
   \end{minipage}
@@ -171,14 +193,17 @@ Joris putteneers is an architect and researcher, interested in speculating the a
 \\ 
 His work has been exhibited at MomA New York, Londen design festival, Venice Biennale and multiple film festivals. He has taught studios and workshops internationally at the Bartlett UCL, Texas A\&M, KUL Faculty of Architecture and TU Wien. Since 2017 he has been actively working in his practice where he develops software and hardware solutions in the fields of Data driven architectural design, vision systems and architectural representation. Currently he is working as a researcher at the KUL Faculty of Architecture developing interdiscpilinairy curricula for Engineers, Architects and Artists. \\
 
-
+\subsection{Portfolio}
+sdffsd
 
 
 
 \section{Conclusion}
-``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}\\
+``I always thought something was fundamentally wrong with the \\
 DSFdsfdsFfdsfdsfdffsfdsfdf
 
 \bibliographystyle{plain}
-% \bibliography{references}
+\bibliography{references}
+This is some example text\footnote{\label{myfootnote}Hello footnote}.
+
 \end{document}
