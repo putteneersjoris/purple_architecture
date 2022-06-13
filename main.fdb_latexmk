@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1654967753 "c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex" "main.pdf" "main" 1654967755
+["pdflatex"] 1655069716 "c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex" "main.pdf" "main" 1655069717
   "C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1654966702 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/joris/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1654944943 10252455 7ec7621bc42bc5e9dfab95af3d0237ec ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -17,8 +17,6 @@
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
-  "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
@@ -75,13 +73,13 @@
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1636713860 4545 d84d0b20a11b9c36c6ecf45697be591c ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex" 1654967752 1862 8f48923391fea4804328da878fe63d96 ""
+  "c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex" 1655069713 1846 1d409e251242fd89b026657c6a908cdd ""
   "images//a.png" 1652866423 126660 5ffd89ac69d623c202e33179453ad681 ""
   "images//b.png" 1652866430 61867 ad159d6bed1d47bfdb9dee30a9377cf0 ""
   "images//g.png" 1651195036 6691139 03b79aa0f19c26ee1166c20e34024f36 ""
-  "main.aux" 1654967755 1923 9ba1e8acab1d901be4f7bbfc71ea2957 "pdflatex"
-  "main.out" 1654967755 279 15bfbdc9e8708e2d151679cc8c258947 "pdflatex"
-  "main.tex" 1654967752 1862 8f48923391fea4804328da878fe63d96 ""
+  "main.aux" 1655069717 1923 9ba1e8acab1d901be4f7bbfc71ea2957 "pdflatex"
+  "main.out" 1655069717 279 15bfbdc9e8708e2d151679cc8c258947 "pdflatex"
+  "main.tex" 1655069713 1846 1d409e251242fd89b026657c6a908cdd ""
   (generated)
   "main.aux"
   "main.log"
