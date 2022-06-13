@@ -1,38 +1,47 @@
+
+% \documentclass{article}
+
+% \reversemarginpar % Move the margin to the left of the page 
+% \newcommand{\MarginText}[1]{\marginpar{\raggedright#1}} 
+% \newlength{\datebox}\settowidth{\datebox}{Spring 2011} 
+% \newcommand{\NewEntry}[3]{\noindent\hangindent=2em\hangafter=0 \parbox{\datebox}{\small \textit{#1}}\hspace{1.5em} #2 #3 
+% \vspace{0.5em}} 
+% \newcommand{\Description}[1]{\hangindent=2em\hangafter=0\noindent\raggedright\footnotesize{#1}\par\normalsize\vspace{1em}} 
+% %----------------------------------------------------------------------------------------
+
+% \begin{document}
+
+%     \NewEntry{2012}{thers}
+
+%     \Description{\MarginText{Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}
+    
+
+
+% \vspace{1em} % Extra space between major sections
+
+
+% \end{document}
+
+
+
 \documentclass{article}
-\usepackage{lipsum}
-% \makeatletter
-\renewcommand\section{\leftskip 0pt\@startsection {section}{1}{\z@}%
-                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
-                                   {2.3ex \@plus.2ex}%
-                                   {\normalfont\Large\bfseries}}
-\renewcommand\subsection{\leftskip 0pt\@startsection{subsection}{2}{\z@}%
-                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
-                                     {1.5ex \@plus .2ex}%
-                                     {\normalfont\large\bfseries}}
-\newcommand\Xsubsubsection{\@startsection{subsubsection}{3}{\z@}%
-                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
-                                     {1.5ex \@plus .2ex}%
-                                     {\normalfont\normalsize\bfseries\leftskip 3ex}}
-\renewcommand\subsubsection[1]{\Xsubsubsection{#1}\leftskip 3ex}
-\makeatother
+
+% \reversemarginpar % Move the margin to the left of the page 
+\newcommand{\MarginText}[1]{\marginpar{#1}} 
+\newlength{\datebox}\settowidth{\datebox}{Spriddddddddddddddddng 2011} 
+\newcommand{\NewEntry}[3]{\parbox{\datebox}{#1}} 
+\newcommand{\Description}[1]{{#1}} 
+%----------------------------------------------------------------------------------------
+
 \begin{document}
-\section{My section}
 
-\lipsum[4]
+    \NewEntry{2012}{thers}
 
-\subsection{My subsection}
+    \Description{\MarginText{Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}
+    
 
-\lipsum[4]
 
-\subsubsection{My subsubsection\label{xxx}}
+% \vspace{1em} % Extra space between major sections
 
-In subsection \ref{xxx}, we have the indent.
 
-\subsection{Next subsection}
-
-\lipsum[4]
-
-\section{next section}
-
-\lipsum[4]
 \end{document}

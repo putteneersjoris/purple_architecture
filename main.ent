@@ -1,0 +1,14 @@
+\@doanenote {1}
+macro:->Here
+is
+the
+first
+Endnote.
+\@endanenote 
+\@doanenote {2}
+macro:->Here
+is
+the
+second
+endnote
+\@endanenote 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  13 JUN 2022 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  13 JUN 2022 20:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,516 +22,88 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-05-04 L3 programming layer (loader) 
+)
+\datebox=\skip49
  (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box50
-))
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count194
-\l__lipsum_a_int=\count195
-\l__lipsum_b_int=\count196
- (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (main.aux)
+) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: You can't use `\spacefactor' in vertical mode.
-<recently read> \spacefactor 
-                             
-l.19 \section
-             {My section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: Missing $ inserted.
-<inserted text> 
-                $
-l.19 \section
-             {My section}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: Undefined control sequence.
-\section ...kip 0pt\@startsection {section}{1}{\z 
-                                                  @}{-3.5ex \@plus -1ex \@mi...
-l.19 \section
-             {My section}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+(Font)              <5> on input line 39.
 
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.19 \section
-             {My section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.19 \section
-             {My section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.19 \section
-             {My section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Font Warning: Command \Large invalid in math mode on input line 19.
-
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:19: LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \section
-             {My section}
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:20: Missing $ inserted.
-<inserted text> 
-                $
-l.20 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-
-Overfull \hbox (11.626pt too wide) in paragraph at lines 19--20
-[]$[]\OML/cmm/m/it/10 startsection[]\OT1/cmr/m/n/10 1@[][][][]$ 
- []
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: You can't use `\spacefactor' in vertical mode.
-<recently read> \spacefactor 
-                             
-l.23 \subsection
-                {My subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: Missing $ inserted.
-<inserted text> 
-                $
-l.23 \subsection
-                {My subsection}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: Undefined control sequence.
-\subsection ...pt\@startsection{subsection}{2}{\z 
-                                                  @}{-3.25ex\@plus -1ex \@mi...
-l.23 \subsection
-                {My subsection}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.23 \subsection
-                {My subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.23 \subsection
-                {My subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.23 \subsection
-                {My subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 23.
-
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:23: LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \subsection
-                {My subsection}
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:24: Missing $ inserted.
-<inserted text> 
-                $
-l.24 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-
-Overfull \hbox (46.0335pt too wide) in paragraph at lines 23--24
-[]$[]\OML/cmm/m/it/10 startsection[]\OT1/cmr/m/n/10 2@[][][][]$ 
- []
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: You can't use `\spacefactor' in vertical mode.
-\@->\spacefactor 
-                 \@m {}
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: Missing $ inserted.
-<inserted text> 
-                $
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: Undefined control sequence.
-\Xsubsubsection ...rtsection{subsubsection}{3}{\z 
-                                                  @}{-3.25ex\@plus -1ex \@mi...
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 27.
-
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:27: LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \subsubsection{My subsubsection\label{xxx}}
-                                                
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:28: Missing $ inserted.
-<inserted text> 
-                $
-l.28 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-
-Overfull \hbox (75.44096pt too wide) in paragraph at lines 27--28
-[]$[]\OML/cmm/m/it/10 startsection[]\OT1/cmr/m/n/10 3@[][][][]$ 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]\OT1/cmr/m/n/10 Joris Put-te-
  []
 
 
-LaTeX Warning: Reference `xxx' on page 1 undefined on input line 29.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: You can't use `\spacefactor' in vertical mode.
-<recently read> \spacefactor 
-                             
-l.31 \subsection
-                {Next subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: Missing $ inserted.
-<inserted text> 
-                $
-l.31 \subsection
-                {Next subsection}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: Undefined control sequence.
-\subsection ...pt\@startsection{subsection}{2}{\z 
-                                                  @}{-3.25ex\@plus -1ex \@mi...
-l.31 \subsection
-                {Next subsection}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.31 \subsection
-                {Next subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.31 \subsection
-                {Next subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.31 \subsection
-                {Next subsection}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 31.
-
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:31: LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \subsection
-                {Next subsection}
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:32: Missing $ inserted.
-<inserted text> 
-                $
-l.32 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-
-Overfull \hbox (53.08786pt too wide) in paragraph at lines 31--32
-[]$[]\OML/cmm/m/it/10 startsection[]\OT1/cmr/m/n/10 2@[][][][]$ 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 neers is de
  []
 
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: You can't use `\spacefactor' in vertical mode.
-<recently read> \spacefactor 
-                             
-l.35 \section
-             {next section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
 
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: Missing $ inserted.
-<inserted text> 
-                $
-l.35 \section
-             {next section}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: Undefined control sequence.
-\section ...kip 0pt\@startsection {section}{1}{\z 
-                                                  @}{-3.5ex \@plus -1ex \@mi...
-l.35 \section
-             {next section}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.35 \section
-             {next section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.35 \section
-             {next section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: You can't use `\spacefactor' in math mode.
-\@->\spacefactor 
-                 \@m {}
-l.35 \section
-             {next section}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 allerbeste
+ []
 
 
-LaTeX Font Warning: Command \Large invalid in math mode on input line 35.
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 echt waar
+ []
 
 
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:35: LaTeX Error: Command \bfseries invalid in math mode.
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 ik woon in
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 \section
-             {next section}
-Please use the math alphabet \mathbf instead of the \bfseries command. 
 
-c:/Users/joris/OneDrive/Documenten/purple_architecture/main.tex:36: Missing $ inserted.
-<inserted text> 
-                $
-l.36 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 nachtegamne-
+ []
 
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
-Missing character: There is no è in font cmex10!
 
-Overfull \hbox (15.55775pt too wide) in paragraph at lines 35--36
-[]$[]\OML/cmm/m/it/10 startsection[]\OT1/cmr/m/n/10 1@[][][][]$ 
+Underfull \hbox (badness 1824) in paragraph at lines 40--40
+\OT1/cmr/m/n/10 dreef num-mer
+ []
+
+
+Overfull \hbox (14.33386pt too wide) in paragraph at lines 39--41
+\OT1/cmr/m/n/10 14Joris Put-te-neers is de allerbeste echt waar ik woon in kok-er-straat 14 nachtegamne-
  []
 
 [1
 
-{C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+{C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 881 strings out of 478614
- 19637 string characters out of 2843122
- 397339 words of memory out of 3000000
- 19098 multiletter control sequences out of 15000+600000
- 470777 words of font info for 33 fonts, out of 8000000 for 9000
+ 431 strings out of 478614
+ 8541 string characters out of 2843122
+ 298975 words of memory out of 3000000
+ 18666 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,331b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (1 page, 51801 bytes).
+ 34i,5n,38p,596b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 17091 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 11 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
