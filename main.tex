@@ -1,14 +1,38 @@
-\documentclass[a4paper,12pt]{article} 
-\usepackage{xcolor} 
-
-\makeatletter
-\renewcommand\thefootnote{\textcolor{red}{\fnsymbol{footnote}}}
-\renewcommand\@makefntext[1]{%
-  \parindent 1em%
-  \noindent
-  \hb@xt@1.8em{\hss\@makefnmark}\textcolor{red}{#1}}
+\documentclass{article}
+\usepackage{lipsum}
+% \makeatletter
+\renewcommand\section{\leftskip 0pt\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\normalfont\Large\bfseries}}
+\renewcommand\subsection{\leftskip 0pt\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\large\bfseries}}
+\newcommand\Xsubsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\normalsize\bfseries\leftskip 3ex}}
+\renewcommand\subsubsection[1]{\Xsubsubsection{#1}\leftskip 3ex}
 \makeatother
+\begin{document}
+\section{My section}
 
-\begin{document} 
-An example of a number\footnote{Numbers are fun.} is $5$. 
+\lipsum[4]
+
+\subsection{My subsection}
+
+\lipsum[4]
+
+\subsubsection{My subsubsection\label{xxx}}
+
+In subsection \ref{xxx}, we have the indent.
+
+\subsection{Next subsection}
+
+\lipsum[4]
+
+\section{next section}
+
+\lipsum[4]
 \end{document}
