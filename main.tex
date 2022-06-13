@@ -1,47 +1,20 @@
 
-% \documentclass{article}
-
-% \reversemarginpar % Move the margin to the left of the page 
-% \newcommand{\MarginText}[1]{\marginpar{\raggedright#1}} 
-% \newlength{\datebox}\settowidth{\datebox}{Spring 2011} 
-% \newcommand{\NewEntry}[3]{\noindent\hangindent=2em\hangafter=0 \parbox{\datebox}{\small \textit{#1}}\hspace{1.5em} #2 #3 
-% \vspace{0.5em}} 
-% \newcommand{\Description}[1]{\hangindent=2em\hangafter=0\noindent\raggedright\footnotesize{#1}\par\normalsize\vspace{1em}} 
-% %----------------------------------------------------------------------------------------
-
-% \begin{document}
-
-%     \NewEntry{2012}{thers}
-
-%     \Description{\MarginText{Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}
-    
-
-
-% \vspace{1em} % Extra space between major sections
-
-
-% \end{document}
-
-
-
 \documentclass{article}
+\usepackage[margin=5cm]{geometry}
 
-% \reversemarginpar % Move the margin to the left of the page 
-\newcommand{\MarginText}[1]{\marginpar{#1}} 
-\newlength{\datebox}\settowidth{\datebox}{Spriddddddddddddddddng 2011} 
-\newcommand{\NewEntry}[3]{\parbox{\datebox}{#1}} 
-\newcommand{\Description}[1]{{#1}} 
-%----------------------------------------------------------------------------------------
+
+\reversemarginpar % Move the margin to the left of the page 
+
+\newcommand{\MarginText}[1]{\marginpar{\raggedright\small#1}} 
+
+\newlength{\datebox}\settowidth{\datebox}{}
+
+\newcommand{\Description}[1]{\hangafter=1\noindent\raggedright\footnotesize{#1}\par\normalsize} 
 
 \begin{document}
 
-    \NewEntry{2012}{thers}
+\Description{\MarginText{Developed spreadsheets for risk analysis on exotic derivatives on a wide array of commodities ags, oils, precious and base metals}Ddsfsdfeveloped spreadsheets for risk analysis on exotic derivatives on a wide array of commodities (ags, oils, precious and base metals), managed }
 
-    \Description{\MarginText{Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14Joris Putteneers is de allerbeste echt waar ik woon in kokerstraat 14 nachtegamnedreef nummer 14}
-    
-
-
-% \vspace{1em} % Extra space between major sections
 
 
 \end{document}
