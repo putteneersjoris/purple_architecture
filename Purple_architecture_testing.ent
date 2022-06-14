@@ -1,0 +1,15 @@
+\@doanenote {1}
+macro:->\label
+{myfootnote}Hello
+footnote
+\@endanenote 
+\@doanenote {2}
+macro:->\label
+{myfootnote}Hello
+footnote
+\@endanenote 
+\@doanenote {3}
+macro:->\label
+{myfootnote}Hello
+footnote
+\@endanenote 
