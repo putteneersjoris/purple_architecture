@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Purple_architecture_testing"] 1655157424 "Purple_architecture_testing.aux" "Purple_architecture_testing.bbl" "Purple_architecture_testing" 1655157671
+["bibtex Purple_architecture_testing"] 1655157424 "Purple_architecture_testing.aux" "Purple_architecture_testing.bbl" "Purple_architecture_testing" 1655158393
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Purple_architecture_testing.aux" 1655157670 3143 5f7eb7b492d5a4abd4e798d84b43d7d1 "pdflatex"
+  "Purple_architecture_testing.aux" 1655158393 3143 5f7eb7b492d5a4abd4e798d84b43d7d1 "pdflatex"
   "references.bib" 1655126719 2251 d0b58fa0d8d91cf81f0a621a6c02ff0c ""
   (generated)
   "Purple_architecture_testing.bbl"
   "Purple_architecture_testing.blg"
-["pdflatex"] 1655157669 "c:/Users/joris/OneDrive/Documenten/purple_architecture/Purple_architecture_testing.tex" "Purple_architecture_testing.pdf" "Purple_architecture_testing" 1655157671
+["pdflatex"] 1655158391 "c:/Users/joris/OneDrive/Documenten/purple_architecture/Purple_architecture_testing.tex" "Purple_architecture_testing.pdf" "Purple_architecture_testing" 1655158393
   "C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1655141429 176950 2c73ba31abbd02de28fe1978ce40c2b5 ""
   "C:/Users/joris/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1654944943 10252455 7ec7621bc42bc5e9dfab95af3d0237ec ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -92,12 +92,12 @@
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1636713860 4545 d84d0b20a11b9c36c6ecf45697be591c ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/joris/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "Purple_architecture_testing.aux" 1655157670 3143 5f7eb7b492d5a4abd4e798d84b43d7d1 "pdflatex"
+  "Purple_architecture_testing.aux" 1655158393 3143 5f7eb7b492d5a4abd4e798d84b43d7d1 "pdflatex"
   "Purple_architecture_testing.bbl" 1655157425 137 a118f9ccba7f8455b8655b40585d78c3 "bibtex Purple_architecture_testing"
-  "Purple_architecture_testing.out" 1655157670 618 440b8a0956a218d67991a0cc528924a0 "pdflatex"
-  "Purple_architecture_testing.tex" 1655157668 12533 55232061b0aef6bacade89f1c13caace ""
-  "Purple_architecture_testing.toc" 1655157671 477 c67ff442344ba75c42ab46f05dc873f4 "pdflatex"
-  "c:/Users/joris/OneDrive/Documenten/purple_architecture/Purple_architecture_testing.tex" 1655157668 12533 55232061b0aef6bacade89f1c13caace ""
+  "Purple_architecture_testing.out" 1655158393 618 440b8a0956a218d67991a0cc528924a0 "pdflatex"
+  "Purple_architecture_testing.tex" 1655158390 12534 1a2aac3ebee4e21da7a95c4a96023f68 ""
+  "Purple_architecture_testing.toc" 1655158393 477 c67ff442344ba75c42ab46f05dc873f4 "pdflatex"
+  "c:/Users/joris/OneDrive/Documenten/purple_architecture/Purple_architecture_testing.tex" 1655158390 12534 1a2aac3ebee4e21da7a95c4a96023f68 ""
   "images//a.png" 1652866423 126660 5ffd89ac69d623c202e33179453ad681 ""
   "images//b.png" 1652866430 61867 ad159d6bed1d47bfdb9dee30a9377cf0 ""
   "images//g.png" 1651195036 6691139 03b79aa0f19c26ee1166c20e34024f36 ""
